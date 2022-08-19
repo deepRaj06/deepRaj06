@@ -1,6 +1,6 @@
 # Namastey 🙏
 # 💫About Me :
-I'm currently working on the ReactJS library and have an aspiration to become a full-stack web developer.
+Collaborative, team player, and efficient in executing goal-oriented projects.Aspiring Full Stack Web Developer.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-rajput-057a71118/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeepakR01294570) 
