@@ -14,3 +14,7 @@ Collaborative, team player, and efficient in executing goal-oriented projects.As
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deepRaj06&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://github.com/deepRaj06/github-readme-activity-graph">
+  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepRaj06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
