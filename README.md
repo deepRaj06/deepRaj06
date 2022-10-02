@@ -1,6 +1,8 @@
 # Namastey 🙏
 # 💫About Me :
-Collaborative, team player, and efficient in executing goal-oriented projects.Aspiring Full Stack Web Developer.
+Remote Collaborative, team player, and efficient in executing goal-oriented projects. Full Stack Web Developer with hands-on experience in group projects as
+well as individual projects.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-rajput-057a71118/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeepakR01294570) 
