@@ -17,6 +17,8 @@ well as individual projects.
 ---
 [![](https://visitcount.itsvg.in/api?id=deepRaj06&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepRaj06&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <a href="https://github.com/deepRaj06/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepRaj06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
