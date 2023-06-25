@@ -1,6 +1,6 @@
 # Namastey 🙏
 # 💫About Me :
-Remote Collaborative, team player, and efficient in executing goal-oriented projects. Full Stack Web Developer with hands-on experience in group projects as
+Remote Collaborative, team player, and efficient in executing goal-oriented projects. Frontend Developer with hands-on experience in group projects as
 well as individual projects.
 
 
